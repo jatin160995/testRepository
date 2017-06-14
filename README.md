@@ -1,2 +1,2 @@
-# testRepository
-this is test Github project
+# TestRepository
+This is test Github project
